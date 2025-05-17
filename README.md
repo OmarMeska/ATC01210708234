@@ -1,12 +1,12 @@
-# 🎬 eTickets – Movie Ticket E-Commerce App
+#  eTickets – Movie Ticket E-Commerce App
 
 An ASP.NET Core MVC web application for online movie ticket booking with full e-commerce features, user authentication, role-based access control, and admin management.
 
 ---
 
-## 🚀 Features
+##  Features
 
-### 🎟️ 1. Movie Ticket E-Commerce Functionality
+###  1. Movie Ticket E-Commerce Functionality
 
 - **Movies**: Browse, filter, and view detailed information.
 - **Cinemas**: Manage cinema details.
@@ -21,7 +21,7 @@ An ASP.NET Core MVC web application for online movie ticket booking with full e-
 
 ---
 
-### 🔐 2. Authentication & Authorization
+###  2. Authentication & Authorization
 
 - **Authentication**:
   - Built with ASP.NET Core Identity
@@ -36,7 +36,7 @@ An ASP.NET Core MVC web application for online movie ticket booking with full e-
 
 ---
 
-### 👤 3. User & Role Seeding
+###  3. User & Role Seeding
 
 On application startup, the database is seeded with:
 
@@ -47,7 +47,7 @@ On application startup, the database is seeded with:
 
 ---
 
-### 🛢️ 4. Database & ORM
+###  4. Database & ORM
 
 - **Entity Framework Core (EF Core)** used with Code-First approach
 - Migrations for schema updates
@@ -56,7 +56,7 @@ On application startup, the database is seeded with:
 
 ---
 
-### 🧱 5. Design Patterns & Architecture
+###  5. Design Patterns & Architecture
 
 - **Repository Pattern**:
   - Generic base repository for CRUD operations
@@ -67,7 +67,7 @@ On application startup, the database is seeded with:
 
 ---
 
-### 🎨 6. UI & Frontend
+###  6. UI & Frontend
 
 - **Razor Views**: Strongly-typed using Razor syntax
 - **Bootstrap**: Responsive layout with custom dark theme
@@ -76,7 +76,7 @@ On application startup, the database is seeded with:
 
 ---
 
-### ⚙️ 7. Other Features
+###  7. Other Features
 
 - **Database Seeding**: Initial data for movies, cinemas, actors, and producers
 - **Session Management**: Shopping cart uses session storage
@@ -86,7 +86,7 @@ On application startup, the database is seeded with:
 
 ---
 
-## 🧠 Built with AI Assistance
+##  Built with AI Assistance
 
 This project was developed with the help of AI tools:
 
@@ -97,7 +97,7 @@ AI played a key role in helping accelerate development, debug issues, and follow
 
 ---
 
-## 🛠️ Technologies Used
+##  Technologies Used
 
 - ASP.NET Core MVC
 - Entity Framework Core
@@ -108,7 +108,7 @@ AI played a key role in helping accelerate development, debug issues, and follow
 
 ---
 
-## 📦 Getting Started
+## Getting Started
 
 1. Clone the repository
 2. Update the `appsettings.json` with your SQL Server connection string
@@ -117,10 +117,9 @@ AI played a key role in helping accelerate development, debug issues, and follow
 
 ---
 
-## 📬 Contact
+##  Contact
 
 For questions or suggestions, feel free to reach out!
 
 ---
 
-> Developed with ❤️ using .NET Core and a little help from AI
